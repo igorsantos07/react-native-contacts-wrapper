@@ -86,8 +86,8 @@ Also add
 
 ## API
 
-`getContact` (Promise) - returns basic contact data as a JS object.  Currently returns name, first phone number and first email for contact.
-`getEmail` (Promise) - returns first email address (if found) for contact as string.
+- `getContact` (Promise) - returns basic contact data as a JS object.  Currently returns name, first phone number and first email for contact.
+- `getEmail` (Promise) - returns first email address (if found) for contact as string.
 
 
 ## Usage
